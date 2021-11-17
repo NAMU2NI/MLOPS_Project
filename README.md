@@ -84,7 +84,7 @@ Sample of 2 data points is shared with the endpoint.py to get the prediction of 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+ https://www.youtube.com/watch?app=desktop&v=XUtZMRehato&feature=youtu.be
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
