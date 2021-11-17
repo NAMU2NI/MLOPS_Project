@@ -17,10 +17,14 @@ Load the BankMarketing Dataset in the Notebook and run the Automl Pipleline by s
 
 Bank Marketing Data set registered in the Dataset 
 ![Bank Marketing Dataset registered](https://user-images.githubusercontent.com/92014201/142161294-4be0b700-e370-4985-b5a4-46361a288e7c.png)
+
 AutoML Experiment submitted 
 ![image](https://user-images.githubusercontent.com/92014201/142161623-50d25f82-1de2-45b3-b504-0fbe2a23940c.png)
+
+
 Selecting the best model for Deployment , Model selection happens based on the Accuracy of AUC Weighted  
 Voting Ensemble is the best model for deployment 
+
 ![image](https://user-images.githubusercontent.com/92014201/142161727-6c852079-670c-4a0e-86a6-7f2cf54cadbb.png)
 
 
