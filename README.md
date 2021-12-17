@@ -1,9 +1,11 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Machine learning ops with the Bank Marketing data 
 
-In this project , we are going to create a Auto ML to classify whether the client will do a fixed deposit in the bank or not using the conversation and details of the client avaiable in the BankMarketing data. Goal of the project is deploy the Model and consume it. Below is the Architectural diagram and the process flow of the problem. 
+In this project , we use the Bank Marketing dataset to train a classification model to predict whether we should reach out to a customer or not. Auto ML from Azure ML is been used to train the best model for the given data. Best Model is been deployed as an cloud service which exposes HTTP end point , secured by authentication. The end point allows getting predictions for new banking customers not seen in the training data and also application insights has been enabled to check if there are any issues. In this project , we also show you how to access the Swagger API definition of the end point. This can be used in various languages so that we can have more users to consume this model. At the end , we create a pipleline to train a AutoML model when someone makes a request to the HTTP request.
+
+
 
 ## Architectural Diagram
 
