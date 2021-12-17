@@ -87,6 +87,21 @@ Sample of 2 data points is shared with the endpoint.py to get the prediction of 
 
 ## Screen Recording
  https://www.youtube.com/watch?app=desktop&v=XUtZMRehato&feature=youtu.be
+ 
+ 
+ ## Future Improvement Suggestions
+ 
+ Connect with a Microsoft Power BI and give a clear visibility to the business on the drivers and recommendations on which customers to Target 
+ Show multiple scenrios with the clear proofs of what are all the problems business would face when we do not have Azure ML and Deployment 
+ 
+ 1) Takes lot of time in finetuning and finding the best Model  
+ 2) If pipelines are not created what are the different issue wrt the Model refresh , how much ideally a time would be involved in the manual refresh of the Model 
+ 3) If the Model is not deployed , what are all the different issues whihc we would have it 
+
+If we had more time , we would worked on the above to give a clear visibility of the benefits of ML Ops 
+ 
+ 
+ 
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
