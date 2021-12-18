@@ -74,7 +74,7 @@ Sample of 2 data points is shared with the endpoint.py to get the prediction of 
 ### Run Details Widget Pipleline 
 ![image](https://user-images.githubusercontent.com/92014201/142166198-3025f032-67b9-4a3d-974a-ffc4c9f2b0ba.png)
 
-### ML Studio showing scheduled run 
+### Deployed pipeline endpoint
 ![image](https://user-images.githubusercontent.com/92014201/142166248-a8342425-a235-4a8f-b2bf-e1391f266b7c.png)
 
 
