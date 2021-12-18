@@ -86,8 +86,7 @@ Sample of 2 data points is shared with the endpoint.py to get the prediction of 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
 ## Screen Recording
- https://www.youtube.com/watch?app=desktop&v=XUtZMRehato&feature=youtu.be
- 
+https://youtu.be/xSUZNzZVUgQ 
  
  ## Future Improvement Suggestions
  
