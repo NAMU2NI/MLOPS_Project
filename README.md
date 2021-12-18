@@ -78,7 +78,7 @@ Sample of 2 data points is shared with the endpoint.py to get the prediction of 
 ![image](https://user-images.githubusercontent.com/92014201/142166248-a8342425-a235-4a8f-b2bf-e1391f266b7c.png)
 
 ## Screen Recording
-https://youtu.be/xSUZNzZVUgQ 
+https://youtu.be/7iOxhIj7jQk
  
  ## Future Improvement Suggestions
  
